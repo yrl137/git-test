@@ -1,4 +1,4 @@
-hello,git3-hot-fix!
+hello,git3-hot-fix master!
 hello,git3-hot-fix!
 hello,git3-hot-fix!
 hello,git3-hot-fix!
