@@ -4,3 +4,4 @@ hello,git3-hot-fix!
 hello,git3-hot-fix!
 hello,git3-hot-fix!
 hello,git3 github-master!
+git-test clone
