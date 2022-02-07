@@ -3,3 +3,4 @@ hello,git3-hot-fix hot!
 hello,git3-hot-fix!
 hello,git3-hot-fix!
 hello,git3-hot-fix!
+hello,git3 github-master!
